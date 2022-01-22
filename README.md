@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkshaySodhi
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C and JavaScript programming
+- 🌱 I’m currently learning C programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at akshay03012003@gmail.com
 
