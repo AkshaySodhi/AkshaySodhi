@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AkshaySodhi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C programming
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Competitive Programming
+- 🌱 I’m currently learning C,C++ programming and basic web development
 - 📫 Reach me at akshay03012003@gmail.com
 
 <!---
