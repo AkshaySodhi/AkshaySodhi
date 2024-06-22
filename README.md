@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @AkshaySodhi
-- 👀 I’m interested in Front-End Web Dev
-- 🌱 I’m currently learning React Development
 - 📫 Reach me at akshay03012003@gmail.com
 
 <!---
