@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkshaySodhi
-- 📫 Reach me at akshay03012003@gmail.com
+- 📫 Reach me at akshay.alt23@gmail.com
 
 
 <!---
