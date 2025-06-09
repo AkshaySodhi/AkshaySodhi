@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/4b/dc/5b/4bdc5ba75b150717706fde8b6599e0e5.gif)
 <h1 align="center">Hi 🙋🏻‍♂️,I'm Akshay Sodhi</h1>
 <h3 align="center">Aspiring Software Development Engineer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
 
 - 🌱 I’m currently learning **Python, Unreal Engine**
 
